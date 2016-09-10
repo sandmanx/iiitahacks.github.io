@@ -1,8 +1,8 @@
 var projects = {
-	"<project-name>":{
+	"share-the-ride":{
                       "image":"https://avatars3.githubusercontent.com/u/22071699?v=3&s=200",
-                      "team":"IIIT-A Hacks",
-                      "link":"https://github.com/iiitahacks"
+                      "team":"semicolon",
+                      "link":"https://github.com/sandmanx/semicolon-share-the-ride"
                   },
 	
 }
